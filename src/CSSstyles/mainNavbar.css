@@ -1,0 +1,18 @@
+.mainNavbar{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: rgb(56, 56, 56);
+    height: 40px;
+}
+.linkColor{
+    color: white;
+}
+.search{
+    width: 400px;
+    height:30px;
+}
+.BrandImg{
+width: 200px;
+height: 45px;
+}
